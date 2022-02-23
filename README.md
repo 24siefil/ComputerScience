@@ -5,10 +5,10 @@
 | Coursework | Professor | Stack | Grade |
 | :---------- | :------- | :----- | :----: |
 | Data Structures | 배성일 교수 | C, C++, Python | A+ |
-| Algorithms |  |  |  |
+| Algorithms & Analysis |  |  |  |
 | Computer Architecture |  |  |  |
 | Operating Systems | 김선일 교수 | C | A+ |
-| Computer Networks |  |  |  |
+| Computer Network |  |  |  |
 | Database | 윤영 교수 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
 
 <br/>
@@ -31,7 +31,7 @@
 
 <br/>
 
-# Algorithms
+# Algorithms & Analysis
 
 | Project Name | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |
@@ -54,7 +54,7 @@
 
 <br/>
 
-# Computer Networks
+# Computer Network
 
 | Project Name | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |

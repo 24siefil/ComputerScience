@@ -1,0 +1,26 @@
+Welcome to Address Book!
+ADDR> The Address Book BST's height is -1.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> The Address Book BST's height is 0.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> The Address Book BST's height is 2.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> The Address Book BST's height is 2.
+ADDR> SEARCH NAME>> Couldn't find the name.
+ADDR> SEARCH NAME>> bbb : 2222 was found.
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1111
+abc : 1234
+ccc : 3333
+ADDR> The Address Book BST's height is 1.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> The Address Book BST's height is 2.
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> The Address Book BST's height is 2.
+ADDR> Quitting ... 

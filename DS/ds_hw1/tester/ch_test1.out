@@ -1,0 +1,30 @@
+Welcome to Address Book!
+ADDR> ADD NAME>> ENTER NUMBER>>> abc : 1234 was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> ccc : 3333 was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> abc : 1111 was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> bbb : 2222 was successfully added!
+ADDR> abc : 1234
+ccc : 3333
+abc : 1111
+bbb : 2222
+ADDR> SEARCH NAME>> abc : 1234 was found.
+ADDR> SEARCH NAME>> Couldn't find the name.
+ADDR> SEARCH NAME>> bbb : 2222 was found.
+ADDR> ADD NAME>> ENTER NUMBER>>> aaa : 1111 was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> Can't add.  Address book is full.
+ADDR> ADD NAME>> ENTER NUMBER>>> Can't add.  Address book is full.
+ADDR> abc : 1234
+ccc : 3333
+abc : 1111
+bbb : 2222
+aaa : 1111
+ADDR> DELETE NAME>> The name was successfully deleted.
+ADDR> abc : 1234
+ccc : 3333
+abc : 1111
+aaa : 1111
+ADDR> DELETE NAME>> The name was successfully deleted.
+ADDR> ccc : 3333
+abc : 1111
+aaa : 1111
+ADDR> Quitting ... 

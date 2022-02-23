@@ -1,0 +1,32 @@
+Welcome to Address Book!
+ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> abc : 1111
+abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> SEARCH NAME>> abc : 1111 was found.
+ADDR> SEARCH NAME>> Couldn't find the name.
+ADDR> SEARCH NAME>> bbb : 2222 was found.
+ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> ADD NAME>> ENTER NUMBER>>> ADDR> aaa : 1111
+aab : 1122
+abc : 1111
+abc : 1234
+bbb : 2222
+ccc : 3333
+ddd : 4444
+eee : 5555
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1111
+aab : 1122
+abc : 1234
+bbb : 2222
+ccc : 3333
+ddd : 4444
+eee : 5555
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aab : 1122
+abc : 1234
+bbb : 2222
+ccc : 3333
+ddd : 4444
+eee : 5555
+ADDR> Quitting ... 

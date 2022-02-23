@@ -1,0 +1,64 @@
+All the words were successfully read!
+Adjacency matrix was successfully constructed!
+Adjacency list was successfully constructed!
+Welcome to Ladders!
+
+Starting word:     Goal word: Sorry. There is no path from hello to world.
+
+Starting word:     Goal word: Sorry. There is no path from hello to axiom.
+
+Starting word:     Goal word:           0 hello
+          1 hells
+          2 heals
+          3 heads
+          4 beads
+          5 brads
+          6 grads
+          7 grade
+          8 grape
+          9 graph
+
+Starting word:     Goal word:           0 begin
+          1 began
+          2 begat
+          3 beget
+          4 beret
+          5 buret
+          6 burnt
+          7 burns
+          8 turns
+          9 tuans
+          10 trans
+          11 brans
+          12 brads
+          13 grads
+          14 grade
+          15 grape
+          16 graph
+
+Starting word:     Goal word:           0 start
+          1 stars
+          2 sears
+          3 bears
+          4 beams
+          5 berms
+          6 barms
+          7 barns
+          8 burns
+          9 burnt
+          10 buret
+          11 beret
+          12 beget
+          13 begat
+          14 began
+          15 begin
+
+Starting word:     Goal word:           0 heart
+          1 hears
+          2 heirs
+          3 hairs
+          4 pairs
+          5 pains
+          6 paint
+
+Starting word: 

@@ -4,12 +4,28 @@
 
 | Coursework | Professor | Stack | Grade |
 | :---------- | :------- | :----- | :----: |
-| Data Structures | 배성일 교수 | C, C++, Python | A+ |
-| Algorithms & Analysis |  |  |  |
 | Computer Architecture |  |  |  |
 | Operating Systems | 김선일 교수 | C | A+ |
+| Data Structures | 배성일 교수 | C, C++, Python | A+ |
+| Algorithms & Analysis |  |  |  |
 | Computer Network |  |  |  |
 | Database | 윤영 교수 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
+
+<br/>
+
+# Computer Architecture
+| Project Name | Topic | Stack | Difficulty |
+| :-------- | :------| :---: | :-: |
+
+<br/>
+
+# Operating Systems
+
+| Project Name | Topic | Stack | Difficulty |
+| :-------- | :------| :---: | :-: |
+| [CPU Scheduling Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw2) | Scheduling Algorithms | C |★★★★☆|
+| [Virtual Memory Management Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw3) | Memory Management | C |★★★★★|
+| [File System Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw4) | File Systems | C |★★★★★|
 
 <br/>
 
@@ -35,22 +51,6 @@
 
 | Project Name | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |
-
-<br/>
-
-# Computer Architecture
-| Project Name | Topic | Stack | Difficulty |
-| :-------- | :------| :---: | :-: |
-
-<br/>
-
-# Operating Systems
-
-| Project Name | Topic | Stack | Difficulty |
-| :-------- | :------| :---: | :-: |
-| [CPU Scheduling Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw2) | Scheduling Algorithms | C |★★★★☆|
-| [Virtual Memory Management Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw3) | Memory Management | C |★★★★★|
-| [File System Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw4) | File Systems | C |★★★★★|
 
 <br/>
 

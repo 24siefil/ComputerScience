@@ -14,7 +14,7 @@
 <br/>
 
 # Computer Architecture
-| Project Name | Topic | Stack | Difficulty |
+| Project | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |
 
 <br/>

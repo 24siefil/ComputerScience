@@ -36,7 +36,7 @@
 | [Address Book - 1](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw1) | Array | C |★☆☆☆☆|
 | [Address Book - 2](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw2) | Quick Sort | C |★☆☆☆☆|
 | [Address Book - 3](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw3) | Linked List | C |★☆☆☆☆|
-| [Address Book - 4](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw4) | Stack` `Queue | C |★☆☆☆☆|
+| [Address Book - 4](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw4) | Stack, Queue | C |★☆☆☆☆|
 | [Address Book - 5](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw5) | Binary Serach Tree | C |★★★☆☆|
 | [Address Book - 6](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw6) | Hashing | C |★★☆☆☆|
 | [Catalan Number](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_whw1) | Binary Tree | Python |★☆☆☆☆|

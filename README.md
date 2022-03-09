@@ -3,13 +3,12 @@
 본 레포지토리는 학부과정의 주요 CS 과목들을 수강하며 수행한 프로젝트들의 모음입니다.
 
 | Coursework | Professor | Stack | Grade |
-| :---------- | :------- | :----- | :----: |
-| Computer Architecture |  |  |  |
-| Operating Systems | 김선일 교수 | C | A+ |
-| Data Structures | 배성일 교수 | C, C++, Python | A+ |
-| Algorithms & Analysis |  |  |  |
-| Computer Network |  |  |  |
-| Database | 윤영 교수 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
+| :---------- | :-------: | :----- | :----: |
+| Computer Architecture | 권건우 |  |  |
+| Operating Systems | 김선일 | C | A+ |
+| Data Structures | 배성일 | C, C++, Python | A+ |
+| Computer Network | 박준철 |  |  |
+| Database | 윤영 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
 
 <br/>
 
@@ -44,13 +43,6 @@
 | [Design of a good hash table](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_whw3) | Hashing | C |★★★☆☆|
 | [Properties of the ladders graph](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_whw4) | Graph | C |★★☆☆☆|
 | [The ladders game](https://github.com/24siefil/Computer_Science/tree/main/DS/ds_hw7) | BFS | C |★★★☆☆|
-
-<br/>
-
-# Algorithms & Analysis
-
-| Project | Topic | Stack | Difficulty |
-| :-------- | :------| :---: | :-: |
 
 <br/>
 

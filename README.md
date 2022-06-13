@@ -33,10 +33,10 @@
 # Computer Architecture
 | Project | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |
-| Homework1 | MIPS-Instructions | MIPS |★★☆☆☆|
-| Homework2 | Verilog HDL Basics | Verillog |★☆☆☆☆|
-| Takehome exam | Performance, Arithmetic, SingleCycle-MIPS | MIPS |★★★☆☆|
-| Homework3 | Pipeline-MIPS | MIPS |★★★☆☆|
+| [Homework1](https://github.com/24siefil/computer-science/blob/main/CA/Homework1.pdf) | MIPS-Instructions | MIPS |★★☆☆☆|
+| [Homework2](https://github.com/24siefil/computer-science/blob/main/CA/Homework2.pdf) | Verilog HDL Basics | Verillog |★☆☆☆☆|
+| [Takehome exam](https://github.com/24siefil/computer-science/blob/main/CA/Takehome.pdf) | Performance, Arithmetic, SingleCycle-MIPS | MIPS |★★★☆☆|
+| [Homework3](https://github.com/24siefil/computer-science/blob/main/CA/Homework3.pdf) | Pipeline-MIPS | MIPS |★★★☆☆|
 
 <br/>
 

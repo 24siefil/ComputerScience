@@ -4,27 +4,11 @@
 
 | Coursework | Professor | Stack | Grade |
 | :---------- | :-------: | :----- | :----: |
-| Computer Architecture | 권건우 |  |  |
-| Operating Systems | 김선일 | C | A+ |
 | Data Structures | 배성일 | C, C++, Python | A+ |
-| Computer Network | 박준철 |  |  |
+| Computer Architecture | 권건우 | MIPS, Verilog |  |
+| Operating Systems | 김선일 | C | A+ |
 | Database | 윤영 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
-
-<br/>
-
-# Computer Architecture
-| Project | Topic | Stack | Difficulty |
-| :-------- | :------| :---: | :-: |
-
-<br/>
-
-# Operating Systems
-
-| Project | Topic | Stack | Difficulty |
-| :-------- | :------| :---: | :-: |
-| [CPU Scheduling Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw2) | Scheduling Algorithms | C |★★★★☆|
-| [Virtual Memory Management Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw3) | Memory Management | C |★★★★★|
-| [File System Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw4) | File Systems | C |★★★★★|
+| Computer Network | 박준철 | - |  |
 
 <br/>
 
@@ -46,10 +30,24 @@
 
 <br/>
 
-# Computer Network
+# Computer Architecture
+| Project | Topic | Stack | Difficulty |
+| :-------- | :------| :---: | :-: |
+| Homework1 | MIPS-Instructions | MIPS |★★☆☆☆|
+| Homework2 | Verilog HDL Basics | Verillog |★☆☆☆☆|
+| Takehome exam | Performance, Arithmetic, SingleCycle-MIPS | MIPS |★★★☆☆|
+| Homework3 | Pipeline-MIPS | MIPS |★★★☆☆|
+
+<br/>
+
+# Operating Systems
 
 | Project | Topic | Stack | Difficulty |
 | :-------- | :------| :---: | :-: |
+| [CPU Scheduling Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw2) | Scheduling Algorithms | C |★★★★☆|
+| [Virtual Memory Management Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw3) | Memory Management | C |★★★★★|
+| [File System Simulator](https://github.com/24siefil/Computer_Science/tree/main/OS/os_hw4) | File Systems | C |★★★★★|
+
 
 <br/>
 

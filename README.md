@@ -5,10 +5,10 @@
 | Coursework | Professor | Stack | Grade |
 | :---------- | :-------: | :----- | :----: |
 | Data Structures | 배성일 | C, C++, Python | A+ |
-| Computer Architecture | 권건우 | MIPS, Verilog |  |
+| Computer Architecture | 권건우 | MIPS, Verilog | B+ |
 | Operating Systems | 김선일 | C | A+ |
 | Database | 윤영 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
-| Computer Network | 박준철 | - |  |
+| Computer Network | 박준철 | - | A+ |
 
 <br/>
 

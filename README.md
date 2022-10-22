@@ -9,6 +9,7 @@
 | Operating Systems | 김선일 | C | A+ |
 | Database | 윤영 | SQL, MariaDB, Java, JDBC, Spring Boot | B+ |
 | Computer Network | 박준철 | - | A+ |
+|  |  |  | 4.09 / 4.50 |
 
 <br/>
 
